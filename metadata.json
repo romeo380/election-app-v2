@@ -1,0 +1,5 @@
+{
+  "name": "React Voting Portal",
+  "description": "A comprehensive voting portal application built with React and Tailwind CSS. It provides an admin panel for managing elections, candidates, and voters, and a separate interface for voters to cast their ballots. All data is persisted in the browser's local storage, mimicking a full-stack application in a client-side environment.",
+  "requestFramePermissions": []
+}
